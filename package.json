@@ -1,0 +1,38 @@
+{
+  "name": "metalsmith-loader",
+  "version": "0.1.0",
+  "description": "Loads Metalsmith as well as metalsmith plugins using globbing patterns similar to `load-grunt-task`",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yeojz/metalsmith-loader.git"
+  },
+  "keywords": [
+    "metalsmith",
+    "load",
+    "plugins",
+    "tasks",
+    "require",
+    "auto",
+    "pattern",
+    "match",
+    "dependencies",
+    "glob"
+  ],
+  "author": "Gerald Yeo <contact@fusedthought.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yeojz/metalsmith-loader/issues"
+  },
+  "homepage": "https://github.com/yeojz/metalsmith-loader",
+  "dependencies": {
+    "findup-sync": "^0.2.1",
+    "multimatch": "^2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}

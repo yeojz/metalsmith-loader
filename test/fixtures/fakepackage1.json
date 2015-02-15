@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "metalsmith-test1": "^1.0.0"
+  },
+  "devDependencies": {
+    "metalsmith-test2": "^1.0.0"
+  },
+  "peerDependencies": {
+    "metalsmith-test3": "^1.0.0"
+  }
+}
