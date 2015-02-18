@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Loads Metalsmith as well as metalsmith plugins using globbing patterns similar to `load-grunt-task`",
   "main": "lib/index.js",
   "scripts": {
