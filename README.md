@@ -1,10 +1,9 @@
 # metalsmith-loader
 > Loads Metalsmith as well as multiple metalsmith plugins using globbing patterns
 
-[![Build Status](https://travis-ci.org/yeojz/metalsmith-loader.svg?branch=master)](https://travis-ci.org/yeojz/metalsmith-loader)
-[![Dependency Status](https://david-dm.org/yeojz/metalsmith-loader.svg)](https://david-dm.org/yeojz/metalsmith-loader)
-[![devDependency Status](https://david-dm.org/yeojz/metalsmith-loader/dev-status.svg)](https://david-dm.org/yeojz/metalsmith-loader#info=devDependencies)
-[![Code Climate](https://codeclimate.com/github/yeojz/metalsmith-loader/badges/gpa.svg)](https://codeclimate.com/github/yeojz/metalsmith-loader)
+[![npm](https://img.shields.io/npm/v/metalsmith-loader.svg)](https://www.npmjs.com/package/metalsmith-loader)
+[![Build Status](https://img.shields.io/travis/yeojz/metalsmith-loader.svg)](https://travis-ci.org/yeojz/metalsmith-loader)
+[![Code Climate](https://img.shields.io/codeclimate/github/yeojz/metalsmith-loader.svg)](https://codeclimate.com/github/yeojz/metalsmith-loader)
 
 This plugin takes reference from / works similarly to [`load-grunt-task`](https://npmjs.org/package/load-grunt-tasks), allowing you to read the `dependencies`/`devDependencies`/`peerDependencies` in your package.json and load [metalsmith](http://metalsmith.io) plugins that matches the provided patterns.
 
