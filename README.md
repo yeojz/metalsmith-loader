@@ -1,4 +1,6 @@
 # metalsmith-loader
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/yeojz/metalsmith-loader.svg)](https://greenkeeper.io/)
 > Loads Metalsmith as well as multiple metalsmith plugins using globbing patterns
 
 [![npm](https://img.shields.io/npm/v/metalsmith-loader.svg)](https://www.npmjs.com/package/metalsmith-loader)
