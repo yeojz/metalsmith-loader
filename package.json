@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/yeojz/metalsmith-loader",
   "dependencies": {
-    "findup-sync": "^0.4.3",
+    "findup-sync": "^1.0.0",
     "multimatch": "^2.0.0"
   },
   "devDependencies": {
